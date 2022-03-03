@@ -12,4 +12,4 @@ Database contains three Tables- Teacher Table , Student Table & Attendance Table
 
 Flow of the Website: Home Page > Admin login > Add Teacher/Student > logout > Home > Teacher login > Take Attendance > logout > Student login > Check Attendance > logout.
 
-Website link:- 
+Website link:- https://deltoid-glossaries.000webhostapp.com/
